@@ -1,121 +1,64 @@
-# Supply Chain Analytics Dashboard (Excel)
+# 📊 Supply Chain Analytics Dashboard (Excel)
 
-## Project Overview
-
-This project is an interactive Supply Chain Analytics Dashboard built in Microsoft Excel using the DataCo Supply Chain dataset. The dashboard helps analyze sales performance, profit, customer behavior, product performance, shipping methods, and regional sales using PivotTables, PivotCharts, Slicers, and KPI cards.
-
----
-
-## Objective
-
-To build an interactive Excel dashboard that enables business users to monitor key supply chain metrics and make data-driven decisions.
-
----
-
-## Dataset
-
-- Dataset: DataCo Supply Chain Dataset
-- Tool Used: Microsoft Excel
-
----
-
-## Project Workflow
-
-### 1. Data Cleaning
-- Checked the dataset for missing values.
-- Removed duplicate records.
-- Corrected data types.
-- Formatted date columns.
-- Standardized text values.
-- Converted sales and profit columns to currency format.
-
-### 2. Data Preparation
-- Created Excel Tables.
-- Organized cleaned data into a separate worksheet.
-- Prepared the dataset for PivotTables.
-
-### 3. Pivot Tables Created
-- Monthly Sales
-- Sales by Region
-- Profit by Category
-- Sales by Category
-- Orders by Shipping Mode
-- Orders by Delivery Status
-- Top 10 Products by Sales
-- Sales by Customer Segment
-- Market-wise Sales
-
-### 4. KPI Cards
-Created KPI cards for:
-- Total Sales
-- Total Profit
-- Total Orders
-- Total Customers
-- Total Quantity Sold
-- Profit Margin (%)
-
-### 5. Pivot Charts
-Used:
-- Line Chart (Monthly Sales Trend)
-- Horizontal Bar Charts
-- Clustered Column Charts
-- Doughnut Chart
-
-### 6. Interactive Filters
-Added slicers for:
-- Region
-- Category
-- Shipping Mode
-- Market
-
-Added:
-- Timeline Filter
-
-### 7. Dashboard Design
-- White and Green theme
-- KPI cards
-- Clean layout
-- Interactive dashboard
-- Professional formatting
-
----
+## Overview
+This project is an interactive Supply Chain Analytics Dashboard built in Microsoft Excel. It provides insights into sales performance, profitability, customer segments, shipping methods, and regional performance using interactive visualizations.
 
 ## Dashboard Features
 
-- Interactive slicers
-- Timeline filtering
-- Dynamic PivotCharts
-- KPI summary cards
-- Sales trend analysis
-- Regional performance analysis
-- Product performance analysis
-- Customer segment analysis
-- Shipping mode analysis
-- Market analysis
+- KPI Cards
+  - Total Sales
+  - Total Profit
+  - Total Orders
+  - Total Customers
+  - Profit Margin
 
----
+- Interactive Slicers
+  - Time Period
+  - Shipping Mode
+  - Market
+  - Category
+  - Region
 
-## Skills Used
+- Visualizations
+  - Monthly Sales Trend
+  - Sales by Region
+  - Market Share
+  - Profit by Category
+  - Orders by Shipping Mode
+  - Sales by Customer Segment
+
+## Tools Used
 
 - Microsoft Excel
-- Data Cleaning
-- Excel Tables
 - Pivot Tables
 - Pivot Charts
 - Slicers
 - Timeline
-- KPI Cards
+- Data Cleaning
+- Data Visualization
+
+## Key Business Insights
+
+- Western Europe generated the highest sales.
+- Consumer customers contributed the highest revenue.
+- Standard Class handled the highest number of orders.
+- Profit varies significantly across product categories.
+- Interactive filters allow dynamic business analysis.
+
+## Skills Demonstrated
+
+- Data Cleaning
 - Dashboard Design
-- Data Analysis
+- KPI Reporting
+- Business Analytics
+- Data Visualization
+- Excel Reporting
 
----
 
-## Dashboard Preview
+## Author
 
+**Poojitha Cherukuru**
 
-![Supply Chain Dashboard](Dashboard.png)
----
+LinkedIn: https://www.linkedin.com/in/ch-poojitha-data-analyst
 
-## Conclusion
-
-This dashboard provides an interactive view of supply chain performance, helping users analyze sales, profit, customer trends, product performance, and shipping efficiency for better business decision-making.
+GitHub: https://github.com/ppoojitha76
